@@ -1,6 +1,7 @@
-# sih_app_2
+# DoctorVoice
 
-A new Flutter project.
+A voice based mobile application to manage all the prescription related stuff in a clinic 
+
 
 ## Getting Started
 
