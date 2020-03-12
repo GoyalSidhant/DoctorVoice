@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>154742290932-f24avl445avrhv5r9e2as9f7ptf0j9pp.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.154742290932-f24avl445avrhv5r9e2as9f7ptf0j9pp</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>154742290932-rlncfjr6hl0nrbck45h0n4otou920217.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDwWymIc05HqBibyYN7ldK7VMHpvRlsJ4Y</string>
+	<key>GCM_SENDER_ID</key>
+	<string>154742290932</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.sihapp.doc</string>
+	<key>PROJECT_ID</key>
+	<string>sihapp-fd703</string>
+	<key>STORAGE_BUCKET</key>
+	<string>sihapp-fd703.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:154742290932:ios:a7f03e90d5c1c11314e1a1</string>
+	<key>DATABASE_URL</key>
+	<string>https://sihapp-fd703.firebaseio.com</string>
+</dict>
+</plist>
